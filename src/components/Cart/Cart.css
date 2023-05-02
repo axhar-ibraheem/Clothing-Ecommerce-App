@@ -1,0 +1,21 @@
+.amount {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+.cart-btns {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+.cart-btns button {
+  width: 6rem;
+  padding: 0.4rem 0;
+  background-color: rgb(54, 149, 149);
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.cart-btn {
+  width: 7rem;
+  padding: 0.5rem 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 1rem;
+  background: rgb(77, 153, 143);
+  color: white;
+  font-weight: bold;
+}

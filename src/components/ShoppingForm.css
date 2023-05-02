@@ -1,0 +1,20 @@
+.shop-form {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2rem;
+}
+.prod-btn {
+  margin-left: 1rem;
+  width: 7rem;
+  padding: 0.4rem 0;
+  background-color: rgb(54, 149, 149);
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.shoppingForm {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
